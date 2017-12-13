@@ -1,0 +1,10 @@
+{
+  "externalSource": "externalSource",
+  "type": "image",
+  "externalId": "externalId",
+  "action": "action",
+  "entry": {
+    "aims_image_path": "aims_image_path",
+    "revision_timestamp": "revision_timestamp"
+  }
+}
