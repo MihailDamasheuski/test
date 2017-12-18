@@ -1,7 +1,6 @@
 package types;
 
 import com.google.gson.JsonObject;
-import org.springframework.beans.factory.annotation.Autowired;
 import services.TestDataFiles;
 import services.TestDataProvider;
 

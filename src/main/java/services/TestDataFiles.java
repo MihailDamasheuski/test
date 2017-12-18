@@ -3,7 +3,8 @@ package services;
 public enum TestDataFiles {
 
 
-    IMAGE("Image.json");
+    IMAGE("Image.json"),
+    VIDEO("VideoScmMsgs.json");
 
 
     String path;
