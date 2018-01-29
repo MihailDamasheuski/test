@@ -7,6 +7,7 @@ import services.TestDataProvider;
 public class Post implements MessageType {
 
     private static final String type = TypeValues.POST.getType();
+
     @Autowired
     private TestDataProvider testDataProvider;
 

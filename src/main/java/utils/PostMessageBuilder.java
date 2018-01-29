@@ -5,6 +5,7 @@ import com.google.gson.JsonObject;
 import types.MessageType;
 
 public class PostMessageBuilder implements CreateObject {
+
     @Override
     public JsonObject getStructureBody(MessageType type) {
         return null;
